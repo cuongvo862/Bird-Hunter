@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 2419055909
+    locked: 0
+  - name: Forceground
+    uniqueID: 923354439
+    locked: 0
+  - name: Bird
+    uniqueID: 4016929887
+    locked: 0
+  - name: Front
+    uniqueID: 3543880197
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
